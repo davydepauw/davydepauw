@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+I'm Davy, and based in Ghent, Belgium. 
+Working as front-end developer at [iO](https://www.iodigital.com/).
 
-<!--
-**davydepauw/davydepauw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I enjoy
+- 📸 Concert photography
+- 🧑‍🌾 Vegetable gardening
+- 🚴 Cycling
+- 💻 Building sites with Craft CMS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Personal projects
+- 🌱 [Lieve Groentjes](https://lievegroentjes.be?utm_medium=social&utm_source=Github&utm_content=profile)
+- 📷 [Photography portfolio](https://davydepauw.be?utm_medium=social&utm_source=Github&utm_content=profile)

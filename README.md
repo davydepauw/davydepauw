@@ -6,7 +6,7 @@ Working as front-end developer at [iO](https://www.iodigital.com/).
 📸 Concert photography  
 🧑‍🌾 Vegetable gardening  
 🚴 Cycling  
-💻 Building sites with Craft CMS  
+💻 Building sites with Craft CMS & Astro 
 
 ## I care about
 💬 Accessibility  
